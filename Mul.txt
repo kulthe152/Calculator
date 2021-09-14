@@ -1,1 +1,3 @@
-New Multiply class has been added
+New Multiply class has been added;
+public void multOperation(){
+}
