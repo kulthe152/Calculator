@@ -1,1 +1,3 @@
-public class Add{}
+public class Add{
+	public int getSum();
+}
